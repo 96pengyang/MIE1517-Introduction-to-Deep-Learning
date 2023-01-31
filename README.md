@@ -1,2 +1,2 @@
 # MIE1517-Introduction-to-Deep-Learning
-Course Group Project
+Jupyter Notebook files for the Course Group Project
